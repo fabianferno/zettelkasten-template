@@ -1,0 +1,364 @@
+{
+  "main": {
+    "id": "3d9c26854662c557",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6ec1d06e92a5443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caec500fc6d89439",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "📌 Draw/KarmaGAP.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "KarmaGAP.excalidraw"
+            }
+          },
+          {
+            "id": "a42847668a9690d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌱 Seedbox/Startup 101.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Startup 101"
+            }
+          },
+          {
+            "id": "03915a7c943a4c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚜️ Cortex/⚒️ Projects/FellowFund.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "FellowFund"
+            }
+          },
+          {
+            "id": "5d3fa43ec49b931f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🌱 Seedbox/Week 08-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Week 08-2025"
+            }
+          },
+          {
+            "id": "7e88b081d2c9e038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⚜️ Cortex/⚒️ Projects/KarmaHQ.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "KarmaHQ"
+            }
+          },
+          {
+            "id": "70a21a7d30d394bc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "📌 Draw/KarmaGAP.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "KarmaGAP.excalidraw"
+            }
+          },
+          {
+            "id": "0826ef7fe8acbfa3",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "🎟️ Kanban/Daily Planner.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Daily Planner"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c06bde6070344c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c4ab1dac94c323",
+        "type": "tabs",
+        "dimension": 70.17804154302671,
+        "children": [
+          {
+            "id": "1ebc193c4a79dc1b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "71b16fdf3d23cf4b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8bd055ef6c7b2d1f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b04c399d0394da36",
+        "type": "tabs",
+        "dimension": 29.82195845697329,
+        "children": [
+          {
+            "id": "d1305a9a63de56f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cortex/projects",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5ab70fae427f4a2d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "35501385d9d80a90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d75b1a4d9d110836",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8fc31d54f59cad5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4334a4175b0932db",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2275fd4cb534568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d22856884847b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7e9a373051e2ce0",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ceae437fff6b0ba7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "🌱 Seedbox/company names.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from company names"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templates:Insert template": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "0826ef7fe8acbfa3",
+  "lastOpenFiles": [
+    "📌 Draw/KarmaGAP.excalidraw.md",
+    "⚜️ Cortex/⚒️ Projects/KarmaHQ.md",
+    "⚜️ Cortex/⚒️ Projects/radish.xyz.md",
+    "🌱 Seedbox/Startup 101.md",
+    "⚜️ Cortex/⚒️ Projects/FellowFund.md",
+    "🎟️ Kanban/Daily Planner.md",
+    "🌱 Seedbox/Week 08-2025.md",
+    "🌱 Seedbox/pla.md",
+    "🌱 Seedbox/Interview with Max.md",
+    "🌱 Seedbox/Ungate.md",
+    "⚜️ Cortex/🤺 People/~ Fabian Ferno.md",
+    "🌱 Seedbox/Interview with Ebrahim.md",
+    "🎟️ Kanban/Life Planner.md",
+    "🌱 Seedbox/Week 07-2025.md",
+    "🌱 Seedbox/Interview with Felipe Bravo.md",
+    "🌱 Seedbox/Week 06-2025.md",
+    "🌱 Seedbox/LinkedIn Content Ideas.md",
+    "🌱 Seedbox/Clipbook.md",
+    "⚜️ Cortex/⚒️ Projects/WarpAds.md",
+    "🌱 Seedbox/WarpAds CookieDAO Application.md",
+    "🌱 Seedbox/Builders Behind Public Goods - Gitcoin Spaces.md",
+    "🎟️ Kanban/WarpAds Sprint Board.md",
+    "📌 Draw/Radish.excalidraw.md",
+    "🌱 Seedbox/Landing Page Design.md",
+    "📌 Draw/WarpAds.excalidraw.md",
+    "🌱 Seedbox/Interview with Shane.md",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20250123155508.png",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20250106220517.png",
+    "Untitled.canvas",
+    "Week 01",
+    "💧 Sources/Videos",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20241230214617.png",
+    "⚙️ Meta/🖇️ Attachments/Pasted Image 20241229221210_544.png",
+    "🕸️ Indexes",
+    "🌱 Seedbox",
+    "⚜️ Cortex/🌱 Seed",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20220220112423.png",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20220603063810.png",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20220220130124.png",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20220220124925.png",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20220220124856.png",
+    "⚙️ Meta/🖇️ Attachments/Pasted image 20220220125652.png",
+    "⚙️ Meta/🖇️ Attachments",
+    "🎟️ Kanban",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "📌 Draw",
+    "smart-chats"
+  ]
+}

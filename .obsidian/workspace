@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "3d9c26854662c557",
+    "type": "split",
+    "children": [
+      {
+        "id": "2faf8650f18c4aa2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "⚜️ Cortex/Idea Seed.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c06bde6070344c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "53c4ab1dac94c323",
+        "type": "tabs",
+        "dimension": 61.9235836627141,
+        "children": [
+          {
+            "id": "41dd83ac944ea8e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "d322e00109a96926",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b04c399d0394da36",
+        "type": "tabs",
+        "dimension": 38.0764163372859,
+        "children": [
+          {
+            "id": "d1305a9a63de56f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "todo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ab70fae427f4a2d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "35501385d9d80a90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "⚜️ Cortex/Idea Seed.md"
+              }
+            }
+          },
+          {
+            "id": "d75b1a4d9d110836",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fc31d54f59cad5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "⚜️ Cortex/Idea Seed.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 345.5
+  },
+  "right": {
+    "id": "4334a4175b0932db",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2275fd4cb534568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d22856884847b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71b16fdf3d23cf4b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.4999084472656
+  },
+  "active": "2faf8650f18c4aa2",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "⚙️ Meta/🗺️ Map of maps.md",
+    "💧 Sources/Music.md",
+    "💧 Sources/Languages/~Languages.md",
+    "💧 Sources/Languages/Klingon.md",
+    "README.md",
+    "📓 Journal/2021-11-25.md",
+    "📓 Journal/2022-02-15.md",
+    "📓 Journal/~Journal.md",
+    "💧 Sources/Stoicism.md"
+  ]
+}
